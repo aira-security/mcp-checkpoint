@@ -145,7 +145,7 @@ def _format_entity_display(entity) -> str:
             tool2_server = tool2.get("server", "unknown") if isinstance(tool2, dict) else "unknown"
             score = entity.additional_info.get("score", "")
             score_str = f" (similarity: {score}%)" if score else ""
-            return f"Conflict between '{tool1_name}' (server: {tool1_server}) and '{tool2_name}' (server: {tool2_server}): {score_str}"
+            return f"Conflict between '{tool1_name}' (server: {tool1_server}) and '{tool2_name}' (server: {tool2_server}) -{score_str}"
     
     if entity.entity_type == "configuration":
         if entity.config_file:
@@ -983,7 +983,7 @@ async def scan_command(args):
             
             print(f"{icon} SECURITY REPORT")
             print_separator('═', 60)
-            print(f"🔺 Total Findings:         {total_issues}")
+            print(f"🔺 Total Findings:       {total_issues}")
 
             if results.security_report and total_issues > 0:
                 print(f"\n📊 Findings by Severity:")

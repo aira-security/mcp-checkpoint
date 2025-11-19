@@ -20,7 +20,7 @@ MCP Checkpoint is a comprehensive security scanner for Model Context Protocol (M
 
 - **🔍 Auto-Discovery**: Finds known MCP configurations for popular Agentic IDEs like Cursor, Windsurf, VS Code, Claude Desktop, and more
 - **🔧 Tool, Resource & Prompt Inventory**: Connects to MCP servers and catalogs available tools, resources, and prompt templates
-- **🛡️ Security Analysis**: Specialized security checks including prompt injection, Cross-server Tool Shadowing, Tool poisoning, Tool name ambiguity, [and more..](#beginner-security-checks)
+- **🛡️ Security Analysis**: Specialized security checks including Prompt Injection, Rug Pull Attack, Cross-server Tool Shadowing, Tool Poisoning, Tool Name Ambiguity, [and more..](#beginner-security-checks)
 - **🧭 Baseline Drift Detection**: Captures approved MCP components and detects rug pulls attacks
 - **📊 Comprehensive Reporting**: Generates JSON and Markdown reports with actionable findings
 - **📜 Audit Trail**: Timestamped baselines and reports for full traceability of changes and findings

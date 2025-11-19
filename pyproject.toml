@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mcp-checkpoint"
-version = "1.0.1"
+version = "2.0.0"
 description = "A comprehensive MCP configuration scanner with client-aware security analysis."
 authors = [
     { name = "Aira Security", email = "founders@airasecurity.ai" }

@@ -119,6 +119,27 @@ Test MCP Checkpoint using our intentionally vulnerable MCP servers. For details,
 
 Get enterprise-grade protection with **Active Insight Mode**, offering ***runtime agent behavior analysis***, enhanced features, and additional scan capabilities — [book a demo](https://calendly.com/mohan-/aira-security) today.
 
+### :zap: Want More?
+
+This open-source version covers static MCP configuration scanning. For teams that need deeper protection, [Aira Security](https://airasecurity.ai) offers a full enterprise platform with:
+
+| Capability | Open Source | Aira Platform |
+|---|:---:|:---:|
+| MCP config scanning | ✅ | ✅ |
+| Prompt & command injection detection | ✅ | ✅ |
+| Tool poisoning & shadowing checks | ✅ | ✅ |
+| Hardcoded secrets detection | ✅ | ✅ |
+| **Runtime enforcement & blocking** | ❌ | ✅ |
+| **Agent behavior policy enforcement** (toxic flow analysis) | ❌ | ✅ |
+| **Skills scanner** (agentic workflow & capability analysis) | ❌ | ✅ |
+| **Custom security policies** | ❌ | ✅ |
+| **Aira dashboard** (centralized visibility & alerting) | ❌ | ✅ |
+| **Complete Agentic Security** (beyond MCP — Agents, Workflows, and Skills) | ❌ | ✅ |
+
+
+👉 [Book a demo](https://calendly.com/mohan-/aira-security) to see the full platform in action.
+
+
 ### :star2: Community
 
  [Join our Slack](https://join.slack.com/t/airasecurityc-jwt3316/shared_invite/zt-3iar5tm3k-R5js~WfnDIHRNtSgd7D0Bg) - a space for developers and security engineers building together to secure AI agents.

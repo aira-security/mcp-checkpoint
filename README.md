@@ -5,11 +5,6 @@
    MCP Checkpoint
 </h3>
 
-<p align="center">
-  <a href="https://pypi.org/project/mcp-checkpoint/"><img src="https://img.shields.io/pypi/v/mcp-checkpoint?color=blue&label=PyPI" alt="PyPI version"></a>
-  <a href="https://github.com/aira-security/mcp-checkpoint/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
-</p>
-
 <br>
 
 ## :rocket: Overview

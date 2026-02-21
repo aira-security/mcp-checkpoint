@@ -115,9 +115,6 @@ mcp-checkpoint scan --show-logs
 
 Test MCP Checkpoint using our intentionally vulnerable MCP servers. For details, see the [demo guide](demo-mcp-server/README.md).
 
-### :office: Enterprise Edition
-
-Get enterprise-grade protection with **Active Insight Mode**, offering ***runtime agent behavior analysis***, enhanced features, and additional scan capabilities — [book a demo](https://calendly.com/mohan-/aira-security) today.
 
 ### :zap: Want More?
 
@@ -137,7 +134,7 @@ This open-source version covers static MCP configuration scanning. For teams tha
 | **Complete Agentic Security** (beyond MCP — Agents, Workflows, and Skills) | ❌ | ✅ |
 
 
-👉 [Book a demo](https://calendly.com/mohan-/aira-security) to see the full platform in action.
+🚀 [See Aira in Action](https://calendly.com/mohan-/aira-security) to experience the full platform.
 
 
 ### :star2: Community

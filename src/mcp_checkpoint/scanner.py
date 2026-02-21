@@ -188,7 +188,7 @@ class MCPConfigScanner:
     
     def create_server_info(self, name: str, config: Dict[str, Any], source_file: str,
                            is_user_provided: bool = False) -> MCPServerInfo:
-        server_type = config.get('type')
+        server_type = config.get('transport') or config.get('type')
 
         if not server_type:
             if config.get('url') or config.get('endpoint'):

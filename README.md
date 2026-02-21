@@ -5,6 +5,12 @@
    MCP Checkpoint
 </h3>
 
+<p align="center">
+  <a href="https://pypi.org/project/mcp-checkpoint/"><img src="https://img.shields.io/pypi/v/mcp-checkpoint?color=blue&label=PyPI" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/mcp-checkpoint/"><img src="https://img.shields.io/pypi/pyversions/mcp-checkpoint" alt="Python versions"></a>
+  <a href="https://github.com/aira-security/mcp-checkpoint/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
+</p>
+
 <br>
 
 ## :rocket: Overview
@@ -97,6 +103,28 @@ mcp-checkpoint scan --show-logs
 ### :test_tube: Demo
 
 Test MCP Checkpoint using our intentionally vulnerable MCP servers. For details, see the [demo guide](demo-mcp-server/README.md).
+
+
+### :zap: Want More?
+
+This open-source version covers static MCP configuration scanning. For teams that need deeper protection, [Aira Security](https://airasecurity.ai) offers a full enterprise platform with:
+
+| Capability | Open Source | Aira Platform |
+|---|:---:|:---:|
+| MCP config scanning | ✅ | ✅ |
+| Prompt & command injection detection | ✅ | ✅ |
+| Tool poisoning & shadowing checks | ✅ | ✅ |
+| Hardcoded secrets detection | ✅ | ✅ |
+| **Runtime enforcement & blocking** | ❌ | ✅ |
+| **Toxic flow analysis** (data exfiltration detection) | ❌ | ✅ |
+| **Intent scanning** (agent behavior policy enforcement) | ❌ | ✅ |
+| **Skills scanner** (agentic workflow & capability analysis) | ❌ | ✅ |
+| **Custom security policies** | ❌ | ✅ |
+| **Aira dashboard** (centralized visibility & alerting) | ❌ | ✅ |
+| **Complete agentic security** (beyond MCP — agents, workflows, and skills) | ❌ | ✅ |
+
+
+👉 [Book a demo](https://calendly.com/mohan-/aira-security) to see the full platform in action.
 
 
 ### :star2: Community
